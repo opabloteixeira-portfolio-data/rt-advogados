@@ -1,6 +1,5 @@
 # 📝 RT Advogados
-- [Link do projeto](https://www.advogadosempelotas.com.br/)
-- <a href="http://site.com" target="_blank">Visite o site</a>
+- <a href="https://www.advogadosempelotas.com.br/" target="_blank">Link do projeto</a>
 
 
 ### Site institucional criado para o escritório de advocacia RT localizado em Pelotas RS
@@ -23,4 +22,4 @@
 - [Codeigniter](https://www.codeigniter.com/)
 
 
-<small style="font-size: 10px">*Criado quando trabalhei na [Hostche](http://www.hostche.com.br)</small>
+<small style="font-size: 10px">*Criado quando trabalhei na <a href="https://www.hostche.com.br/" target="_blank">Hostche</a></small>
